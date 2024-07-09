@@ -13,9 +13,10 @@
   "dependencies": {
     "advanced-calculator": "^1.1.1",
     "dotenv": "^16.4.5",
+    "langchain": "^0.2.8",
     "openai": "^4.52.3",
     "pdf-parse": "^1.1.1",
     "youtube-transcript": "^1.2.1",
-    "youtubei.js": "^10.0.0"
+    "youtubei.js": "^9.4.0"
   }
 }
